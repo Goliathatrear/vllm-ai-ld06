@@ -1,4 +1,4 @@
-# 
+# Ultimato vLLM plugins. Com controle de versão e preservação de privacidade — otimizado para máximo desempenho e eficiência.
 
 
 
